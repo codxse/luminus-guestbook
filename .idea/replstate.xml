@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1480509342913">{:repl-history {:ide [], :local [&quot;(+ 1 1)\n   &quot; &quot;(+ 1 1)&quot; &quot;(use 'bukutamu.db.core)&quot; &quot;(save-message! {:name \&quot;Nadiar\&quot;, :message \&quot;First!\&quot;, :timestamp (java.util.Date.)})&quot; &quot;(get-message)&quot; &quot;(use 'bukutamu.db.core)\n     &quot; &quot;(get-messages)&quot;], :remote []}}</component>
+</project>
